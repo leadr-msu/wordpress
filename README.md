@@ -75,16 +75,16 @@ Once viewing the appropriate area, click on the dropdown icon to access the "Rem
 
 ## Additional Resources:
 
-- [How to Disable Comments in WordPress (Step by Step)](https://themeisle.com/blog/disable-comments-in-wordpress/)
-- [Creating a Static Front Page](https://codex.wordpress.org/Creating_a_Static_Front_Page)
-- [WordPress Menu User Guide](https://codex.wordpress.org/WordPress_Menu_User_Guide)
-- [Users Your Profile Screen](https://codex.wordpress.org/Users_Your_Profile_Screen) (scroll to "Account Management" to see information about changing one's password once logged in)
-- [Resetting Your Password](https://codex.wordpress.org/Resetting_Your_Password) (instructions on how to change your password when either logged in already, or when login is impossible because of a forgotten password)
-- [Selecting the Active Theme](https://codex.wordpress.org/Using_Themes#Selecting_the_Active_Theme)
-- [Inserting Media into... Pages](https://codex.wordpress.org/Inserting_Media_into_Posts_and_Pages)
-- [Embeds](https://codex.wordpress.org/Embeds) (for information about automatically embedding YouTube videos and other content)
-- [Appearance Customize Screen](https://codex.wordpress.org/Appearance_Customize_Screen)
+- ![How to Disable Comments in WordPress (Step by Step)](https://themeisle.com/blog/disable-comments-in-wordpress/)
+- ![Creating a Static Front Page](https://codex.wordpress.org/Creating_a_Static_Front_Page)
+- ![WordPress Menu User Guide](https://codex.wordpress.org/WordPress_Menu_User_Guide)
+- ![Users Your Profile Screen](https://codex.wordpress.org/Users_Your_Profile_Screen) (scroll to "Account Management" to see information about changing one's password once logged in)
+- ![Resetting Your Password](https://codex.wordpress.org/Resetting_Your_Password) (instructions on how to change your password when either logged in already, or when login is impossible because of a forgotten password)
+- ![Selecting the Active Theme](https://codex.wordpress.org/Using_Themes#Selecting_the_Active_Theme)
+- ![Inserting Media into... Pages](https://codex.wordpress.org/Inserting_Media_into_Posts_and_Pages)
+- ![Embeds](https://codex.wordpress.org/Embeds) (for information about automatically embedding YouTube videos and other content)
+- ![Appearance Customize Screen](https://codex.wordpress.org/Appearance_Customize_Screen)
 
 
 ----
-### Return to ![LEADR's Resources list](https://github.com/leadr-msu/Resources)
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
