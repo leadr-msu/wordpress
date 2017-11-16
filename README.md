@@ -59,19 +59,19 @@ Many themes come with preloaded widgets which are geared toward blog-centric Wor
 
 After setting one's theme, begin by navigating to Appearance > Customize from the Dashboard:
 
-[](images/nav-appearance-customize.png?raw=true)
+![](images/nav-appearance-customize.png?raw=true)
 
 Each theme has a different Customizer look, but most preload the undesired tools in the "widgets" section. So click on "widgets" to bring up the list of widget areas.
 
-[](images/appearance-customize-widgets.png?raw=true)
+![](images/appearance-customize-widgets.png?raw=true)
 
 Every theme has a different list of widget areas, so one will have to open each area to see if there are any undesired widgets preloaded. For this example theme, all the undesired widgets load in the "Blog Sidebar" area. 
 
-[](images/customize-widgets.png?raw=true)
+![](images/customize-widgets.png?raw=true)
 
 Once viewing the appropriate area, click on the dropdown icon to access the "Remove" option. Click that option and repeat for every other undesired widget in the area. To finish, click the "Save & Publish" button. Once saved, you can exit out of the Customize tool by clicking the large X in the top-left.
 
-[](images/widgets-blog-sidebar.png?raw=true)
+![](images/widgets-blog-sidebar.png?raw=true)
 
 ## Additional Resources:
 
