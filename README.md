@@ -55,7 +55,7 @@ To change an entry's label, simply click on the dropdown icon to gain access to 
 
 ## Additional Resources:
 
-- [How to Disable Comments in WordPress (Step by Step](https://themeisle.com/blog/disable-comments-in-wordpress/)
+- [How to Disable Comments in WordPress (Step by Step)](https://themeisle.com/blog/disable-comments-in-wordpress/)
 - [Creating a Static Front Page](https://codex.wordpress.org/Creating_a_Static_Front_Page)
 - [WordPress Menu User Guide](https://codex.wordpress.org/WordPress_Menu_User_Guide)
 - [Users Your Profile Screen](https://codex.wordpress.org/Users_Your_Profile_Screen) (scroll to "Account Management" to see information about changing one's password once logged in)
