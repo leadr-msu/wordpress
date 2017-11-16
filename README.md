@@ -17,6 +17,8 @@ This page has a bunch of options available. It is important that the option "All
 
 ![](images/settings-discussion.png?raw=true)
 
+Once finished, be sure to click the "Save Changes" button at the bottom of the page.
+
 ## Setting a Static Homepage
 
 In order to set a static homepage, one must first have created the page that will be set. This is easily done under the Pages section of the Dashboard:
@@ -27,7 +29,7 @@ Once the page has been created and published, one will go to Settings > Reading 
 
 ![](images/nav-settings-reading.png?raw=true)
 
-Change the setting for "Front page displays" from "Your latest posts" to "A static page (select below)" and then choose one's desired homepage from the dropdown list for "Front page." Then click "Save Changes" at the bottom of this settings page.
+Change the setting for "Front page displays" from "Your latest posts" to "A static page (select below)" and then choose one's desired homepage from the dropdown list for "Front page." Then click the "Save Changes" button at the bottom of the page.
 
 ![](images/settings-reading.png?raw=true)
 
@@ -39,17 +41,17 @@ Once one has created their website's pages, they will likely need to manually cr
 
 ![](images/nav-appearance-menus.png?raw=true)
 
-Start by giving the new menu a name and then clicking "Create Menu." Then, choose the "View All" tab on the left to see a list of all one's pages. Check the boxes next to all the desired menu items (or choose "Select All" to check all the boxes) and click "Add to Menu.
+Start by giving the new menu a name and then clicking "Create Menu." Then, choose the "View All" tab on the left to see a list of all one's pages. Check the boxes next to all the desired menu items (or choose "Select All" to check all the boxes) and click the "Add to Menu" button.
 
 ![](images/appearance-menus.png?raw=true)
 
 Once the pages have been loaded into the menu, one can reorder them by dragging-and-dropping them into the desired order. One can also create sub-menus - where a page's entry will appear in the menu as a dropdown option under another page's entry - by dragging the menu item to the right to off-set it from the top-level entry. 
 
-![](images/menu-reorder.png?raw=true)
+![](images/menus-reorder.png?raw=true)
 
-To change an entry's label, simply click on the dropdown icon to gain access to the label editing feature. This is also how to find the "Remove" option for any given entry. After making all the desired changes, be sure to click "Save Menu."
+To change an entry's label, simply click on the dropdown icon to gain access to the label editing feature. This is also how to find the "Remove" option for any given entry. After making all the desired changes, be sure to click the "Save Menu" button.
 
-![](images/menu-rename-delete.png?raw=true)
+![](images/menus-rename-delete.png?raw=true)
 
 ----
 ### Return to ![LEADR's Resources list](https://github.com/leadr-msu/Resources)
