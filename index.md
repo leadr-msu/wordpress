@@ -87,4 +87,4 @@ Once viewing the appropriate area, click on the dropdown icon to access the "Rem
 
 
 ----
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/Resources/)
+### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)
