@@ -1,5 +1,5 @@
 # WordPress Introductory Resources
-_Prepared by Brian Geyer_
+_Prepared by Brian Samuel Geyer_
 
 Because WordPress is an incredibly popular content management system, there is no shortage of WordPress tutorials - both written and in video form - accessible online. As such, this resource only covers the most common issues we come across when using WordPress in a classroom setting.
 
@@ -86,5 +86,5 @@ Once viewing the appropriate area, click on the dropdown icon to access the "Rem
 - [Appearance Customize Screen](https://codex.wordpress.org/Appearance_Customize_Screen)
 
 
-----
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)
+-----
+### Return to [LEADR's Resources list](https://leadr-msu.github.io/)
